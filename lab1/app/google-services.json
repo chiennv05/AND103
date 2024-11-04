@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414104755309",
+    "project_id": "book-80d74",
+    "storage_bucket": "book-80d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414104755309:android:024aa1a90cb4a7db287364",
+        "android_client_info": {
+          "package_name": "com.example.lab1_and103"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp6bs3YFphcndDzUFpw_G-97HZZG1bc8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
